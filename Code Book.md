@@ -3,14 +3,14 @@ This is a Code Book for a tidy data set produced by the script run_analysis.R
 The summary of the resulting data is following:
 
 ## Identification
-- subject - an ID of a test subject wearing the sensors
-- activity - a reported activity of a test subject, which could take the following values:
-··- WALKING
-··- WALKING_UPSTAIRS
-··- WALKING_DOWNSTAIRS
-··- SITTING
-··- STANDING
-··- LAYING
+- 	subject - an ID of a test subject wearing the sensors
+- 	activity - a reported activity of a test subject, which could take the following values:
+	- WALKING
+	- WALKING_UPSTAIRS
+	- WALKING_DOWNSTAIRS
+	- SITTING
+	- STANDING
+	- LAYING
 
 ## Measurements
 *tBodyAcc_mean_X
